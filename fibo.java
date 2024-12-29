@@ -24,6 +24,8 @@ class Anant {
         for (int i = 0; i < N; i++) {
 
             System.out.print(fib(i) + " ");
+            System.out.print(i + " ");
+            
         }
     }
 }
